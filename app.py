@@ -22,7 +22,7 @@ st.set_page_config(
     layout="wide"
 )
 
-FILE_PATH = r"data\analysis_all_classes1.xlsx"
+FILE_PATH = "data/analysis_all_classes1.xlsx"
 SUIVI_PATH = r"data\suivi_eleves.xlsx"
 DB_PATH = r"database\suivi.db"
 
